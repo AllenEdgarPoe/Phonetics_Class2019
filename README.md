@@ -1,7 +1,7 @@
 # Phonetics_Class2019
 <br> Various Methods and Examples of python 
 1. Variables
-type|feature|example
+<br>type|feature|example
 ---|:---:|---
 string|immutable<br>iterable|`'a','123','\n'`
 list|mutable<br>iterable|`[1,2,3]. ['apple']`

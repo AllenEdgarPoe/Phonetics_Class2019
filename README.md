@@ -1,6 +1,6 @@
 # Phonetics_Class2019
 <br> Various Methods and Examples of python 
-1. Variables
+
 <br>type|feature|example
 ---|:---:|---
 string|immutable<br>iterable|`'a','123','\n'`

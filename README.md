@@ -2,6 +2,7 @@
 <br> Various Methods and Examples of python 
 
 <br>**Variables**
+
 <br>type|feature|example
 ---|:---:|---
 string|immutable<br>iterable|`'a','123','\n'`
@@ -12,6 +13,7 @@ range|immutable<br>iterable|`range(10)`
 set|mutable<br>iterable|`{1,2,3}`
 
 <br>**Strings**
+
 |name|meaning|syntax|
 |---:|---:|---|
 |len|counts the number of elements in container|len(`string`)|
@@ -25,6 +27,7 @@ set|mutable<br>iterable|`{1,2,3}`
 |join| takes all items in an iterable and joins them into one string|`string`.join(iterable)|
 
 <br>**Syntax**
+
 |operator|meaning|example|
 |---:|---:|---|
 |`for loop`| allows code to be executed repeatedly| for _ in range(10):|
